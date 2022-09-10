@@ -1,4 +1,4 @@
-# odc_hackathon_web_project
+# petology_web_project
 
 A new Flutter project.
 
